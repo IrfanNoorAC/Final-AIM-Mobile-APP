@@ -1,0 +1,14 @@
+Name,postalCode,Sex,AgeCategory,DeafOrHardOfHearing,BlindOrVisionDifficulty,DifficultyWalking,HeightInCentimeters,WeightInKilograms,BMI,CanAssistDeaf,CanAssistBlind,CanAssistWheelchair,latitude,longitude
+Mary Smith,238880,Female,Age 65 to 69,No,No,No,160,71.67,27.99,No,Yes,Yes
+Joseph Brown,529509,Male,Age 70 to 74,No,No,No,178,95.25,30.13,No,Yes,Yes
+Robert Wilson,510234,Male,Age 75 to 79,No,Yes,Yes,185,108.86,31.66,No,No,No
+Patricia Wilson,600526,Female,Age 80 or older,No,No,Yes,170,90.72,31.32,Yes,Yes,No
+Karen Rodriguez,730826,Female,Age 80 or older,No,No,No,155,79.38,33.07,No,Yes,No
+Michael Rodriguez,550207,Male,Age 50 to 54,No,No,No,185,120.2,34.96,No,No,Yes
+Patricia Williams,530826,Female,Age 80 or older,No,No,No,163,88,33.3,No,No,Yes
+William Johnson,120749,Male,Age 75 to 79,No,No,No,175,74.84,24.37,No,Yes,No
+Richard Johnson,460218,Male,Age 40 to 44,Yes,No,No,170,78.02,26.94,No,Yes,Yes
+Karen Wilson,548809,Female,Age 75 to 79,No,No,No,168,63.5,22.6,No,Yes,No
+Michael Davis,098204,Male,Age 80 or older,No,No,No,183,122.47,36.62,No,No,Yes
+Susan Jones,507490,Female,Age 60 to 64,No,No,Yes,152,108.86,46.87,Yes,No,No
+Charles Williams,818642,Male,Age 60 to 64,No,No,Yes,188,115.67,32.74,No,No,No
